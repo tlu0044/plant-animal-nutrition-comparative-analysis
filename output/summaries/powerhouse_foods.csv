@@ -1,0 +1,41 @@
+,,FoodType,Food,Protein,Iron,Calcium,Vitamin B12
+Top Protein,8,Animal-based,"Egg, white, dried",79.9,,,
+Top Protein,17,Animal-based,"Egg, whole, dried",48.1,,,
+Top Protein,19,Animal-based,"Egg, yolk, dried",34.2,,,
+Top Protein,23,Animal-based,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",32.1,,,
+Top Protein,100,Animal-based,"Cheese, parmesan, grated, refrigerated",30.1,,,
+Top Protein,71,Plant-based,"Flour, soy, defatted",51.1,,,
+Top Protein,72,Plant-based,"Flour, soy, full-fat",38.6,,,
+Top Protein,48,Plant-based,"Beans, Dry, Tan (0% moisture)",26.8,,,
+Top Protein,54,Plant-based,"Beans, Dry, Dark Red Kidney (0% moisture)",25.9,,,
+Top Protein,47,Plant-based,"Beans, Dry, Brown (0% moisture)",25.6,,,
+Top Iron,19,Animal-based,"Egg, yolk, dried",,9.28,,
+Top Iron,17,Animal-based,"Egg, whole, dried",,6.97,,
+Top Iron,18,Animal-based,"Egg, yolk, raw, frozen, pasteurized",,4.13,,
+Top Iron,192,Animal-based,"Anchovies, canned in olive oil, with salt, drained",,2.69,,
+Top Iron,40,Animal-based,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",,2.34,,
+Top Iron,102,Plant-based,"Flour, potato",,12.0,,
+Top Iron,72,Plant-based,"Flour, soy, full-fat",,9.51,,
+Top Iron,71,Plant-based,"Flour, soy, defatted",,7.34,,
+Top Iron,49,Plant-based,"Beans, Dry, Light Tan (0% moisture)",,7.29,,
+Top Iron,136,Plant-based,"Lentils, dry",,7.16,,
+Top Calcium,150,Animal-based,"Cheese, pasteurized process cheese food or product, American, singles",,,1500.0,
+Top Calcium,100,Animal-based,"Cheese, parmesan, grated, refrigerated",,,950.0,
+Top Calcium,33,Animal-based,"Cheese, swiss",,,890.0,
+Top Calcium,11,Animal-based,"Cheese, parmesan, grated",,,884.0,
+Top Calcium,12,Animal-based,"Cheese, pasteurized process, American, vitamin D fortified",,,866.0,
+Top Calcium,71,Plant-based,"Flour, soy, defatted",,,338.0,
+Top Calcium,168,Plant-based,"Collards, raw",,,276.0,
+Top Calcium,4,Plant-based,"Nuts, almonds, dry roasted, with salt added",,,273.0,
+Top Calcium,72,Plant-based,"Flour, soy, full-fat",,,258.0,
+Top Calcium,5,Plant-based,"Kale, raw",,,254.0,
+Top B12,192,Animal-based,"Anchovies, canned in olive oil, with salt, drained",,,,12.6
+Top B12,156,Animal-based,"Fish, salmon, Atlantic, farm raised, raw",,,,5.7
+Top B12,155,Animal-based,"Fish, salmon, sockeye, wild caught, raw",,,,5.16
+Top B12,161,Animal-based,"Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated",,,,3.12
+Top B12,33,Animal-based,"Cheese, swiss",,,,3.02
+Top B12,90,Plant-based,"Soy milk, sweetened, plain, refrigerated",,,,1.33
+Top B12,78,Plant-based,"Soy milk, unsweetened, plain, shelf stable",,,,0.393
+Top B12,0,Plant-based,"Hummus, commercial",,,,0.0
+Top B12,1,Plant-based,"Tomatoes, grape, raw",,,,0.0
+Top B12,2,Plant-based,"Beans, snap, green, canned, regular pack, drained solids",,,,0.0
