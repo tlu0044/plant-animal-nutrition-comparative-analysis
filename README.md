@@ -43,6 +43,7 @@ This repository contains a comparative statistical analysis of 215 unique USDA F
 ├── requirements.txt           # Environment dependencies
 └── README.md                  # Project documentation
 
+```
 ## 🚀 Practical Implications
 
 For the home cook, a transition to whole-food plant-based eating requires:
