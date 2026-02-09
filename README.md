@@ -3,7 +3,6 @@
 ### Implications for Plant-Based Home Cooking
 
 **Author:** Thomas Lu
-
 **Date:** February 2026
 
 ---
@@ -26,7 +25,7 @@ This repository contains a comparative statistical analysis of 215 unique USDA F
 * **Dataset:** USDA FoodData Central (Foundation Foods).
 * **Metrics:** Standardized 100g units; calculated nutrient efficiency per 100kcal.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 ├── data/
@@ -52,7 +51,7 @@ For the home cook, a transition to whole-food plant-based eating requires:
 2. **Outlier Prioritization:** Focusing on high-protein plant sources (soy, legumes, nuts) to overcome lower protein-to-weight ratios.
 3. **Intentional Supplementation:** Utilizing fortified foods or external supplements to address the absolute Vitamin B12 deficit in unprocessed plant ingredients.
 
-## 📝 Data Availability
+## Data Availability
 
 The original USDA raw files and full analysis code are available here. For a structured view of the metrics, see the [Project Spreadsheet](https://docs.google.com/spreadsheets/d/1PYvKLAUffwFwzloVkGrtkIXmxZJn2mtFJ7IbtUHA4Hw/edit?usp=sharing).
 
