@@ -8,23 +8,23 @@
 
 ---
 
-## 🔬 Project Overview
+## Project Overview
 
-This repository contains a comparative statistical analysis of 215 unique USDA Foundation Food items ( animal-based;  plant-based). The research investigates the physiological trade-offs of shifting to a plant-forward home-cooking environment, standardizing whole, unprocessed ingredients across gravimetric () and metabolic () scales.
+This repository contains a comparative statistical analysis of 215 unique USDA Foundation Food items categorized into animal-based (n=80) and plant-based (n=135). The research investigates the physiological implications of shifting to a plant-based home-cooking environment, standardizing whole, unprocessed ingredients across gravimetric (100g) and metabolic (100kcal) scales.
 
-## 📊 Key Findings
+## Key Findings
 
-* **Protein Concentration:** Animal-based foods yield nearly  the median protein content of plant-based sources ( vs ).
-* **Iron Density Paradox:** Per , plant-based foods exhibit a **10x higher median Iron density** than animal products ( vs ).
-* **The B12 Gap:** Vitamin B12 is absent in  of plant-based samples, with presence restricted solely to fortified soy products.
-* **Caloric Architecture:**  of animal-based calories are derived from protein and lipids, while plant-based calories are primarily carbohydrate-driven () and offer the exclusive pathway for dietary fiber.
+* **Protein Concentration:** Animal-based foods yield nearly 7x the median protein content of plant-based sources (16.60g vs 2.41g).
+* **Iron Density Paradox:** Per 100kcal, plant-based foods exhibit a **10x higher median Iron density** than animal products (1.18mg vs 0.11mg).
+* **The B12 Gap:** Vitamin B12 is absent in 98.6% of plant-based samples, only in fortified soy products.
+* **Caloric Architecture:** 90% of animal-based calories are derived from protein and lipids, while plant-based calories are primarily carbohydrate-driven (59%) are high in dietary fiber.
 
-## 🛠️ Tech Stack & Methodology
+## Tech Stack & Methodology
 
 * **Language:** Python 3.x
 * **Libraries:** `Pandas` (Data Processing), `Seaborn` & `Matplotlib` (Statistical Visualization).
 * **Dataset:** USDA FoodData Central (Foundation Foods).
-* **Metrics:** Standardized  units; calculated nutrient efficiency per .
+* **Metrics:** Standardized 100g units; calculated nutrient efficiency per 100kcal.
 
 ## 📁 Repository Structure
 
@@ -44,7 +44,7 @@ This repository contains a comparative statistical analysis of 215 unique USDA F
 └── README.md                  # Project documentation
 
 ```
-## 🚀 Practical Implications
+## Practical Implications
 
 For the home cook, a transition to whole-food plant-based eating requires:
 
@@ -54,5 +54,5 @@ For the home cook, a transition to whole-food plant-based eating requires:
 
 ## 📝 Data Availability
 
-The original USDA raw files and full analysis code are available here. For a structured view of the metrics, see the [Project Spreadsheet](https://docs.google.com/spreadsheets/d/your-link-here).
+The original USDA raw files and full analysis code are available here. For a structured view of the metrics, see the [Project Spreadsheet](https://docs.google.com/spreadsheets/d/1PYvKLAUffwFwzloVkGrtkIXmxZJn2mtFJ7IbtUHA4Hw/edit?usp=sharing).
 
