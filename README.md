@@ -54,4 +54,5 @@ For the home cook, a transition to whole-food plant-based eating requires:
 ## Data Availability
 
 The original USDA raw files and full analysis code are available here. For a structured view of the metrics, see the [Project Spreadsheet](https://docs.google.com/spreadsheets/d/1PYvKLAUffwFwzloVkGrtkIXmxZJn2mtFJ7IbtUHA4Hw/edit?usp=sharing).
+[Read the Full Research Report (PDF)](nutrition_analysis_report.pdf)
 
