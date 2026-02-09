@@ -2,7 +2,7 @@
 
 ### Implications for Plant-Based Home Cooking
 
-**Author:** Thomas Lu
+**Author:** Thomas Lu\
 **Date:** February 2026
 
 ---
@@ -14,7 +14,7 @@ This repository contains a comparative statistical analysis of 215 unique USDA F
 ## Key Findings
 
 * **Protein Concentration:** Animal-based foods yield nearly 7x the median protein content of plant-based sources (16.60g vs 2.41g).
-* **Iron Density Paradox:** Per 100kcal, plant-based foods exhibit a **10x higher median Iron density** than animal products (1.18mg vs 0.11mg).
+* **Iron Density Paradox:** Per 100kcal, plant-based foods exhibit a 10x higher median Iron density than animal products (1.18mg vs 0.11mg).
 * **The B12 Gap:** Vitamin B12 is absent in 98.6% of plant-based samples, only in fortified soy products.
 * **Caloric Architecture:** 90% of animal-based calories are derived from protein and lipids, while plant-based calories are primarily carbohydrate-driven (59%) are high in dietary fiber.
 
