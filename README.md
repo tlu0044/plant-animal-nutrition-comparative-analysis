@@ -14,9 +14,9 @@ This repository contains a comparative statistical analysis of 215 unique USDA F
 ## Key Findings
 
 * **Protein Concentration:** Animal-based foods yield nearly 7x the median protein content of plant-based sources (16.60g vs 2.41g).
-* **Iron Density Paradox:** Per 100kcal, plant-based foods exhibit a 10x higher median Iron density than animal products (1.18mg vs 0.11mg).
-* **The B12 Gap:** Vitamin B12 is absent in 98.6% of plant-based samples, only in fortified soy products.
-* **Caloric Architecture:** 90% of animal-based calories are derived from protein and lipids, while plant-based calories are primarily carbohydrate-driven (59%) are high in dietary fiber.
+* **Iron Density:** Per 100kcal, plant-based foods exhibit a 10x higher median Iron density than animal products (1.18mg vs 0.11mg).
+* **The B12 Absence:** Vitamin B12 is absent in 98.6% of plant-based samples, only in fortified soy products.
+* **Caloric Values:** 90% of animal-based calories are derived from protein and lipids, while plant-based calories are primarily carbohydrate-driven (59%) are high in dietary fiber.
 
 ## Tech Stack & Methodology
 
@@ -47,12 +47,12 @@ This repository contains a comparative statistical analysis of 215 unique USDA F
 
 For the home cook, a transition to whole-food plant-based eating requires:
 
-1. **Volumetric Adjustments:** Increasing plate volume to match traditional protein targets.
-2. **Outlier Prioritization:** Focusing on high-protein plant sources (soy, legumes, nuts) to overcome lower protein-to-weight ratios.
-3. **Intentional Supplementation:** Utilizing fortified foods or external supplements to address the absolute Vitamin B12 deficit in unprocessed plant ingredients.
+1. **Volumee Adjustments:** Increasing plate volume to match traditional protein targets.
+2. **Focus on outliers:** Focusing on high-protein plant sources (soy, legumes, nuts) to overcome lower protein-to-weight ratios.
+3. **Deliberate Supplementation:** Utilizing fortified foods or external supplements to address the absolute Vitamin B12 deficit in unprocessed plant ingredients.
 
 ## Data Availability
 
-The original USDA raw files and full analysis code are available here. For a structured view of the metrics, see the [Project Spreadsheet](https://docs.google.com/spreadsheets/d/1PYvKLAUffwFwzloVkGrtkIXmxZJn2mtFJ7IbtUHA4Hw/edit?usp=sharing).\
+The original USDA raw files and full analysis code are available here. For a structured view of processed data, see the [Spreadsheet](https://docs.google.com/spreadsheets/d/1PYvKLAUffwFwzloVkGrtkIXmxZJn2mtFJ7IbtUHA4Hw/edit?usp=sharing).\\
 [Read the Full Research Report (PDF)](nutrition_analysis_report.pdf)
 
